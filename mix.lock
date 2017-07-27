@@ -2,6 +2,7 @@
   "cowlib": {:hex, :cowlib, "1.0.2", "9d769a1d062c9c3ac753096f868ca121e2730b9a377de23dec0f7e08b1df84ee", [:make], [], "hexpm"},
   "earmark": {:hex, :earmark, "1.2.2", "f718159d6b65068e8daeef709ccddae5f7fdc770707d82e7d126f584cd925b74", [:mix], [], "hexpm"},
   "ex_doc": {:hex, :ex_doc, "0.16.0", "d598d2c654786a3de231202fcd1565a3df6c068c295cebc6d3d57589e8a97ea1", [:mix], [{:earmark, "~> 1.1", [hex: :earmark, repo: "hexpm", optional: false]}], "hexpm"},
+  "ex_doc_dash": {:hex, :ex_doc_dash, "0.2.2", "570eaa8b369887c10acf77d71674836b45f025bdc0a1e5eed1fe1a310d31caad", [], [{:earmark, ">= 0.1.0", [hex: :earmark, repo: "hexpm", optional: false]}, {:ex_doc, "> 0.6.1", [hex: :ex_doc, repo: "hexpm", optional: false]}], "hexpm"},
   "gettext": {:hex, :gettext, "0.13.1", "5e0daf4e7636d771c4c71ad5f3f53ba09a9ae5c250e1ab9c42ba9edccc476263", [:mix], [], "hexpm"},
   "inch_ex": {:hex, :inch_ex, "0.5.6", "418357418a553baa6d04eccd1b44171936817db61f4c0840112b420b8e378e67", [:mix], [{:poison, "~> 1.5 or ~> 2.0 or ~> 3.0", [hex: :poison, repo: "hexpm", optional: false]}], "hexpm"},
   "mime": {:hex, :mime, "1.1.0", "01c1d6f4083d8aa5c7b8c246ade95139620ef8effb009edde934e0ec3b28090a", [:mix], [], "hexpm"},

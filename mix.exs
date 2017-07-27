@@ -66,6 +66,7 @@ defmodule Phoenix.Mixfile do
       {:ex_doc, "~> 0.16", only: :docs},
       {:inch_ex, "~> 0.2", only: :docs},
       {:phoenix_guides, git: "https://github.com/phoenixframework/phoenix_guides.git", compile: false, app: false, only: :docs},
+      {:ex_doc_dash, "~> 0.2.0", only: :docs},
 
       # Test dependencies
       {:phoenix_html, "~> 2.10", only: :test},
